@@ -1,9 +1,9 @@
 package teste;
 
-public class Teste {
+public class Teste2 {
 
 	public static void main(String[] args) {
-		System.out.println("teste3");
+		// TODO Auto-generated method stub
 
 	}
 
